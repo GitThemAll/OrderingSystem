@@ -64,33 +64,33 @@
             // 
             // lunchToolStripMenuItem
             // 
-            this.lunchToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.lunchToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lunchToolStripMenuItem.Name = "lunchToolStripMenuItem";
-            this.lunchToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.lunchToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
             this.lunchToolStripMenuItem.Text = "Lunch ";
             this.lunchToolStripMenuItem.Click += new System.EventHandler(this.lunchToolStripMenuItem_Click);
             // 
             // dinnerToolStripMenuItem
             // 
-            this.dinnerToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.dinnerToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dinnerToolStripMenuItem.Name = "dinnerToolStripMenuItem";
-            this.dinnerToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
+            this.dinnerToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.dinnerToolStripMenuItem.Text = "Dinner";
             this.dinnerToolStripMenuItem.Click += new System.EventHandler(this.dinnerToolStripMenuItem_Click);
             // 
             // drinksToolStripMenuItem
             // 
-            this.drinksToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.drinksToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.drinksToolStripMenuItem.Name = "drinksToolStripMenuItem";
-            this.drinksToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
+            this.drinksToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.drinksToolStripMenuItem.Text = "Drinks";
             this.drinksToolStripMenuItem.Click += new System.EventHandler(this.drinksToolStripMenuItem_Click);
             // 
             // orderDetailsToolStripMenuItem
             // 
-            this.orderDetailsToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.orderDetailsToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.orderDetailsToolStripMenuItem.Name = "orderDetailsToolStripMenuItem";
-            this.orderDetailsToolStripMenuItem.Size = new System.Drawing.Size(83, 20);
+            this.orderDetailsToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
             this.orderDetailsToolStripMenuItem.Text = "Order Details ";
             this.orderDetailsToolStripMenuItem.Click += new System.EventHandler(this.orderDetailsToolStripMenuItem_Click);
             // 
@@ -138,15 +138,17 @@
             // 
             // homeToolStripMenuItem
             // 
+            this.homeToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.homeToolStripMenuItem.Name = "homeToolStripMenuItem";
-            this.homeToolStripMenuItem.Size = new System.Drawing.Size(64, 25);
+            this.homeToolStripMenuItem.Size = new System.Drawing.Size(68, 23);
             this.homeToolStripMenuItem.Text = "Home";
             this.homeToolStripMenuItem.Click += new System.EventHandler(this.homeToolStripMenuItem_Click);
             // 
             // logoutToolStripMenuItem
             // 
+            this.logoutToolStripMenuItem.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(71, 25);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(75, 23);
             this.logoutToolStripMenuItem.Text = "Logout";
             this.logoutToolStripMenuItem.Click += new System.EventHandler(this.logoutToolStripMenuItem_Click);
             // 

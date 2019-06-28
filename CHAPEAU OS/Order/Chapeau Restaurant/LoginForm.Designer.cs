@@ -66,7 +66,7 @@
             // 
             // Login_btn
             // 
-            this.Login_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Login_btn.Font = new System.Drawing.Font("Constantia", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Login_btn.Location = new System.Drawing.Point(16, 76);
             this.Login_btn.Name = "Login_btn";
             this.Login_btn.Size = new System.Drawing.Size(272, 50);
@@ -97,20 +97,20 @@
             // Password_lbl
             // 
             this.Password_lbl.AutoSize = true;
-            this.Password_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Password_lbl.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Password_lbl.Location = new System.Drawing.Point(13, 47);
             this.Password_lbl.Name = "Password_lbl";
-            this.Password_lbl.Size = new System.Drawing.Size(78, 20);
+            this.Password_lbl.Size = new System.Drawing.Size(81, 19);
             this.Password_lbl.TabIndex = 1;
             this.Password_lbl.Text = "Password";
             // 
             // Username_lbl
             // 
             this.Username_lbl.AutoSize = true;
-            this.Username_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Username_lbl.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Username_lbl.Location = new System.Drawing.Point(13, 15);
             this.Username_lbl.Name = "Username_lbl";
-            this.Username_lbl.Size = new System.Drawing.Size(83, 20);
+            this.Username_lbl.Size = new System.Drawing.Size(87, 19);
             this.Username_lbl.TabIndex = 0;
             this.Username_lbl.Text = "Username";
             // 

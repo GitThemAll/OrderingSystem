@@ -42,9 +42,10 @@
             // OrdStatusbtn
             // 
             this.OrdStatusbtn.BackColor = System.Drawing.Color.Aqua;
-            this.OrdStatusbtn.Location = new System.Drawing.Point(70, 380);
+            this.OrdStatusbtn.Font = new System.Drawing.Font("Constantia", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.OrdStatusbtn.Location = new System.Drawing.Point(25, 351);
             this.OrdStatusbtn.Name = "OrdStatusbtn";
-            this.OrdStatusbtn.Size = new System.Drawing.Size(135, 46);
+            this.OrdStatusbtn.Size = new System.Drawing.Size(272, 96);
             this.OrdStatusbtn.TabIndex = 1;
             this.OrdStatusbtn.Text = "CHANGE ORDER STATUS";
             this.OrdStatusbtn.UseVisualStyleBackColor = false;
@@ -53,9 +54,10 @@
             // btn_RefreshOrders
             // 
             this.btn_RefreshOrders.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.btn_RefreshOrders.Location = new System.Drawing.Point(425, 380);
+            this.btn_RefreshOrders.Font = new System.Drawing.Font("Constantia", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_RefreshOrders.Location = new System.Drawing.Point(303, 351);
             this.btn_RefreshOrders.Name = "btn_RefreshOrders";
-            this.btn_RefreshOrders.Size = new System.Drawing.Size(130, 45);
+            this.btn_RefreshOrders.Size = new System.Drawing.Size(307, 96);
             this.btn_RefreshOrders.TabIndex = 4;
             this.btn_RefreshOrders.Text = "REFRESH ORDERS";
             this.btn_RefreshOrders.UseVisualStyleBackColor = false;
