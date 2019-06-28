@@ -144,3 +144,15 @@ C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Chapea
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb

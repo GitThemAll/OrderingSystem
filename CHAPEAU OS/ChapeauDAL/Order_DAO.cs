@@ -147,7 +147,7 @@ namespace ChapeauDAL
 
         public void UpdateOrderStatusAndTip(Order o)
         {
-            string query = $"UPDATE Orders SET Status='{Status.Payed.ToString()}', Tip={o.tip},FeedBack='{o.feedback}' WHERE Id={o.id};";
+            string query = $"UPDATE Orders SET Status='{Status.Payed.ToString()}', Tip={o.tip},FeedBack='{o.feedback}', PaymentType='{o.paymentType.ToString()}' WHERE Id={o.id};";
             SqlParameter[] sqlParameters = new SqlParameter[0];
             ExecuteEditQuery(query, sqlParameters);
         }

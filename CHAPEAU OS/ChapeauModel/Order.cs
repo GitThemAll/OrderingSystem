@@ -17,6 +17,7 @@ namespace ChapeauModel
         public decimal tip;
         public string feedback;
         public int table;
+        public PaymentType paymentType;
 
         public Order()
         {

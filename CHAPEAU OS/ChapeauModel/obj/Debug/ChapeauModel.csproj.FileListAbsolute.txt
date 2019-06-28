@@ -57,3 +57,9 @@ C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Chapea
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
 C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb

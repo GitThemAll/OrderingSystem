@@ -34,21 +34,25 @@ namespace Chapeau_Restaurant
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Order.paymentType = PaymentType.Visa; 
             PerformPayment();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            Order.paymentType = PaymentType.Pin;
             PerformPayment();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Order.paymentType = PaymentType.Cash;
             PerformPayment();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            Order.paymentType = PaymentType.AmericanExpress;
             PerformPayment();
         }
     }
