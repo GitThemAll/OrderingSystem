@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chapeau_Restaurant.ChapeauForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChapeauForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.Choosepayment">
+    <Position X="9.25" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAA4AAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChoosePayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.DeviceManager">
+    <Position X="3.75" Y="4.25" Width="2" />
+    <InheritanceLine Type="Chapeau_Restaurant.ChapeauForm" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="1.191" />
+        <Point X="5" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="connectedScreens" Type="Chapeau_Restaurant.ChapeauForm">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.537" Y="1.17" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgAAgAEAACAAAAAQAACAAAACQAAAAAAAAAACAAAQIAA=</HashCode>
+      <FileName>DeviceManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="connectedScreens" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.LoginForm">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <AssociationLine Name="chapeauMonitor" Type="Chapeau_Restaurant.ChapeauForm" FixedFromPoint="true">
+      <Path>
+        <Point X="13.25" Y="0.688" />
+        <Point X="5.5" Y="0.688" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAACADAEACAAAACAABAACAAAAFAAQAAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="chapeauMonitor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.MenuViewLine">
+    <Position X="15" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACBAlAABCAAAAABgACAAAACAAAEIACTAACBAAAABAA=</HashCode>
+      <FileName>MenuViewLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.OrderForm">
+    <Position X="0.5" Y="2" Width="2.75" />
+    <AssociationLine Name="paymentForm" Type="Chapeau_Restaurant.PaymentForm" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.625" Y="10.992" />
+        <Point X="1.625" Y="12.75" />
+        <Point X="12.329" Y="12.75" />
+        <Point X="12.329" Y="1.083" />
+        <Point X="10.812" Y="1.083" />
+        <Point X="10.812" Y="2" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.564" Y="0.264" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AQCAgWACQCABMIBABACCBAEiAACQgCImAgGAEIABQUA=</HashCode>
+      <FileName>OrderForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="paymentForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.OrderProcessingUI">
+    <Position X="6" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAACABAIAhgCCAAAICAIBAoIAFAEAAAAAAAAI=</HashCode>
+      <FileName>OrderProcessingUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="stock" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.PaymentForm">
+    <Position X="9.25" Y="2" Width="2.5" />
+    <InheritanceLine Type="Chapeau_Restaurant.ChapeauForm" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1" />
+        <Point X="9.625" Y="1" />
+        <Point X="9.625" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="orderForm" Type="Chapeau_Restaurant.OrderForm" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10" Y="2" />
+        <Point X="10" Y="0.928" />
+        <Point X="12.749" Y="0.928" />
+        <Point X="12.749" Y="12.351" />
+        <Point X="12.412" Y="12.351" Type="JumpStart" />
+        <Point X="12.245" Y="12.351" Type="JumpEnd" />
+        <Point X="2.375" Y="12.351" />
+        <Point X="2.375" Y="10.992" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.429" Y="0.25" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AECAIAQBACAAIBAgAACBAEACAAAAAAAkACAAAAACAAA=</HashCode>
+      <FileName>PaymentForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="orderForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.StockViewUI">
+    <Position X="7" Y="8.5" Width="1.75" />
+    <AssociationLine Name="orderProcessing" Type="Chapeau_Restaurant.OrderProcessingUI">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.34" Y="0.044" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAIAAAACAEAACAKAEAAgBAAAAIAAAAAA=</HashCode>
+      <FileName>StockViewUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="orderProcessing" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.TableView">
+    <Position X="4.25" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAABAAEECCgAAgCAAAAIAAAACAIEAAAAAA=</HashCode>
+      <FileName>TableView.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="orderForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

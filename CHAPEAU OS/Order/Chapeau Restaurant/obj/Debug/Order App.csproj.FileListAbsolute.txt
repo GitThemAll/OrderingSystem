@@ -1,0 +1,306 @@
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Shared.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Shared.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+E:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+D:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.orderItemDisplay.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.orderItemDisplay.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb

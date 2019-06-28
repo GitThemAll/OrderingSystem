@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChapeauLogic.Order_Service">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACEECAAAAACBAAAAAEAAAAAAAAAAAABAgUAIAAAAAA=</HashCode>
+      <FileName>Order_Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.PaymentService">
+    <Position X="3" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAg=</HashCode>
+      <FileName>PaymentService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.ProcessOrder_Service">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ProcessOrder_Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.Stock_Service">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock_Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.User_Services">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIA=</HashCode>
+      <FileName>User_Services.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

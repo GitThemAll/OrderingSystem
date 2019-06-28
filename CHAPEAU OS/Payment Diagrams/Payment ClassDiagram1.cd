@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChapeauDAL.Base">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAACABAAAQQAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauDAL.Order_DAO">
+    <Position X="5.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAQADAAAAAAABAAAAAAACAABAQQAAAAAIAg=</HashCode>
+      <FileName>Order_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.ChapeauForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChapeauForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.PaymentForm">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <InheritanceLine Type="Chapeau_Restaurant.ChapeauForm" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="2.761" />
+        <Point X="1.25" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AECAIAQBACAAIBAgAACBAEACAAAAAAAkACAAAAACAAA=</HashCode>
+      <FileName>PaymentForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="order" />
+      <Field Name="ps" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChapeauModel.Order">
+    <Position X="3.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAUAAEAECIAJAIAAAAAAAAAAAAAAEAAAAAQAAAgA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.PaymentService">
+    <Position X="5.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAg=</HashCode>
+      <FileName>PaymentService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

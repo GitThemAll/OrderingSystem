@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChapeauDAL.Base" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAACABAAAQQAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauDAL.ProcessOrder_DAO">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAgAAgUAAAAQAAAAACAAAggAAAAAAAAAAASQAAA=</HashCode>
+      <FileName>ProcessOrder_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauDAL.Stock_DAO">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <AssociationLine Name="StockItems" Type="ChapeauModel.Stock">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.952" Y="0.05" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Stock_DAO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="StockItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.ChapeauForm" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChapeauForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chapeau_Restaurant.OrderProcessingUI">
+    <Position X="5.25" Y="5.25" Width="2.75" />
+    <InheritanceLine Type="Chapeau_Restaurant.ChapeauForm" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="4.441" />
+        <Point X="6.5" Y="5.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAACABAIAhgCCAAAICAIBAoIAFAEAAAAAAAAI=</HashCode>
+      <FileName>OrderProcessingUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProcessOrder" />
+      <Field Name="stock" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="All_Order_Items" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauModel.OrderItem">
+    <Position X="0.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAgAAAABAAAgAAAAAkQA=</HashCode>
+      <FileName>OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauModel.Stock">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChapeauLogic.ProcessOrder_Service">
+    <Position X="0.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ProcessOrder_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProcessOrder_db" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChapeauLogic.Stock_Service">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Stock_db" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Chapeau_Restaurant.StockViewUI">
+    <Position X="9" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAIAAAACAEAACAKAEAAgBAAAAIAAAAAA=</HashCode>
+      <FileName>StockViewUI.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Stocks_controller" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

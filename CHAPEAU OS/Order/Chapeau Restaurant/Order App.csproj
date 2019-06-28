@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5C5BF89-4E53-4525-951C-7C9EB72D87BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Chapeau_Restaurant</RootNamespace>
+    <AssemblyName>Chapeau Restaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChapeauForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChapeauForm.Designer.cs">
+      <DependentUpon>ChapeauForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoosePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoosePayment.Designer.cs">
+      <DependentUpon>ChoosePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceManager.Designer.cs">
+      <DependentUpon>DeviceManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuViewLine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MenuViewLine.Designer.cs">
+      <DependentUpon>MenuViewLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderForm.Designer.cs">
+      <DependentUpon>OrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orderItemDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="orderItemDisplay.Designer.cs">
+      <DependentUpon>orderItemDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderProcessingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderProcessingUI.Designer.cs">
+      <DependentUpon>OrderProcessingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StockViewUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockViewUI.Designer.cs">
+      <DependentUpon>StockViewUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TableView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TableView.Designer.cs">
+      <DependentUpon>TableView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChapeauForm.resx">
+      <DependentUpon>ChapeauForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoosePayment.resx">
+      <DependentUpon>ChoosePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceManager.resx">
+      <DependentUpon>DeviceManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuViewLine.resx">
+      <DependentUpon>MenuViewLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderForm.resx">
+      <DependentUpon>OrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderItemDisplay.resx">
+      <DependentUpon>orderItemDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderProcessingUI.resx">
+      <DependentUpon>OrderProcessingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockViewUI.resx">
+      <DependentUpon>StockViewUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableView.resx">
+      <DependentUpon>TableView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Chapaeu Restaurant OS.cd" />
+    <None Include="UI ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ChapeauLogic\ChapeauLogic.csproj">
+      <Project>{729bec79-7e93-4c9d-b476-917b88449c1a}</Project>
+      <Name>ChapeauLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ChapeauModel\ChapeauModel.csproj">
+      <Project>{1485c786-9e1c-44ad-9847-db788ef39588}</Project>
+      <Name>ChapeauModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\american-express-logo.png" />
+    <Content Include="Resources\payment-method.png" />
+    <Content Include="Resources\Pin.png" />
+    <Content Include="Resources\visa-pay-logo.png" />
+    <Content Include="Resources\visa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,59 @@
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll.CodeAnalysisLog.xml
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll.lastcodeanalysissucceeded
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_incomplete merge\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_G03_Final\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\DESIGN-PATTERNS-TERM4\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Abdul's stuff\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Mikaela\Desktop\Project Documentation\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Abdul\Desktop\Chapeau-Project\CHAPEAUSolution-group03\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb

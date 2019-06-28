@@ -1,0 +1,12 @@
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\bin\Debug\Shared.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\bin\Debug\Shared.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\obj\Debug\SharedTypes.csproj.CoreCompileInputs.cache
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\obj\Debug\Shared.dll
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\obj\Debug\Shared.pdb
+C:\Users\Mikaela\Desktop\Project Documentation\CHAPEAU OS\Shared\obj\Debug\SharedTypes.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\bin\Debug\Shared.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\bin\Debug\Shared.pdb
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\obj\Debug\SharedTypes.csprojAssemblyReference.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\obj\Debug\SharedTypes.csproj.CoreCompileInputs.cache
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\obj\Debug\Shared.dll
+J:\Work\Term 4\Project merging\CHAPEAU OS_TakingOrder_v2\CHAPEAU OS\Shared\obj\Debug\Shared.pdb
