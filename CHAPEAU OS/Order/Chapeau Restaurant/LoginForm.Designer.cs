@@ -41,13 +41,13 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.LightCyan;
+            this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(361, 112);
+            this.panel1.Size = new System.Drawing.Size(421, 112);
             this.panel1.TabIndex = 3;
             // 
             // panel2
@@ -59,7 +59,7 @@
             this.panel2.Controls.Add(this.Username_txtbx);
             this.panel2.Controls.Add(this.Password_lbl);
             this.panel2.Controls.Add(this.Username_lbl);
-            this.panel2.Location = new System.Drawing.Point(30, 127);
+            this.panel2.Location = new System.Drawing.Point(60, 190);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(302, 144);
             this.panel2.TabIndex = 4;
@@ -83,6 +83,7 @@
             this.Password_txtbx.Size = new System.Drawing.Size(186, 26);
             this.Password_txtbx.TabIndex = 3;
             this.Password_txtbx.UseSystemPasswordChar = true;
+            this.Password_txtbx.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Password_txtbx_KeyPress);
             // 
             // Username_txtbx
             // 
@@ -91,6 +92,7 @@
             this.Username_txtbx.Name = "Username_txtbx";
             this.Username_txtbx.Size = new System.Drawing.Size(186, 26);
             this.Username_txtbx.TabIndex = 2;
+            this.Username_txtbx.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Username_txtbx_KeyPress);
             // 
             // Password_lbl
             // 
@@ -116,10 +118,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightCyan;
-            this.ClientSize = new System.Drawing.Size(361, 306);
+            this.BackColor = System.Drawing.Color.LightSlateGray;
+            this.ClientSize = new System.Drawing.Size(421, 433);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "LoginForm";
             this.Text = "LoginForm";
             this.panel2.ResumeLayout(false);

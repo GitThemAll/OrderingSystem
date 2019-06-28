@@ -174,7 +174,7 @@ namespace ChapeauDAL
                            " FROM Orders " +
                            " JOIN OrderItem ON OrderItem.OrderId = Orders.Id " +
                            " JOIN MenuItem ON MenuItem.Id = OrderItem.ItemId " +
-                           " WHERE OrderItem.Item_Status = 1 AND ( MenuItem.Sub_Type <> 'SoftDrinks' AND MenuItem.Sub_Type <> 'HotDrinks' " +
+                           " WHERE OrderItem.Item_Status = 'Ready' AND ( MenuItem.Sub_Type <> 'SoftDrinks' AND MenuItem.Sub_Type <> 'HotDrinks' " +
                            " AND MenuItem.Sub_Type <> 'Beers' AND MenuItem.Sub_Type <> 'Wines' ) " +
                            " ORDER BY Orders.Time DESC ";
 
@@ -188,7 +188,7 @@ namespace ChapeauDAL
                            " FROM Orders " +
                            " JOIN OrderItem ON OrderItem.OrderId = Orders.Id " +
                            " JOIN MenuItem ON MenuItem.Id = OrderItem.ItemId " +
-                           " WHERE OrderItem.Item_Status = 1 AND ( MenuItem.Sub_Type = 'SoftDrinks' OR MenuItem.Sub_Type = 'HotDrinks' " +
+                           " WHERE OrderItem.Item_Status = 'Ready' AND ( MenuItem.Sub_Type = 'SoftDrinks' OR MenuItem.Sub_Type = 'HotDrinks' " +
                            " OR MenuItem.Sub_Type = 'Beers' OR MenuItem.Sub_Type = 'Wines' ) " +
                            " ORDER BY Orders.Time DESC ";
             SqlParameter[] sqlParameters = new SqlParameter[0];

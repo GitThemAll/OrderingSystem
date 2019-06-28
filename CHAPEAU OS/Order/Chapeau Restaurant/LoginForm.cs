@@ -25,6 +25,7 @@ namespace Chapeau_Restaurant
 
         private void Login_btn_Click(object sender, EventArgs e)
         {
+            
             try
             {
                 string username = TextboxIsFilled(Username_txtbx.Text);
@@ -50,6 +51,22 @@ namespace Chapeau_Restaurant
             if (string.IsNullOrEmpty(text))
                 throw new Exception("a field is empty please fill in all information");
             return text;
+        }
+
+        private void Username_txtbx_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                Login_btn.PerformClick();
+            }
+        }
+
+        private void Password_txtbx_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                Login_btn.PerformClick();
+            }
         }
     }
 }

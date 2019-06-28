@@ -29,9 +29,13 @@ namespace Chapeau_Restaurant
 
         private void ConfirmPaymentBtn_Click(object sender, EventArgs e)
         {
-            string s = TipTxtBox.Text;
-            order.tip = decimal.Parse(s);
+            
+
+            order.tip = decimal.Parse(TipTxtBox.Text);
             order.feedback = CommentBox.Text;
+            if (order.feedback == "Add a comment...")
+                order.feedback = "No feedback was given";
+
             Choosepayment choosepayment = new Choosepayment(order,this);
             choosepayment.ShowDialog();
             this.Close();
@@ -74,7 +78,7 @@ namespace Chapeau_Restaurant
         }
 
 
-
+        //------validations and some controles
         private void TipTxtBox_KeyPress(object sender, KeyPressEventArgs e)
         {
 
@@ -103,8 +107,11 @@ namespace Chapeau_Restaurant
         private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Hide();
-            
+        }
 
+        private void CommentBox_MouseClick(object sender, MouseEventArgs e)
+        {
+            CommentBox.SelectionLength = CommentBox.Text.Length;
         }
     }
 }

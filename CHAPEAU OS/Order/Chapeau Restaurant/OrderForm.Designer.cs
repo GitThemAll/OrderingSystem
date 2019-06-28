@@ -97,7 +97,7 @@
             // flowLayoutPanelMenuItems
             // 
             this.flowLayoutPanelMenuItems.AutoScroll = true;
-            this.flowLayoutPanelMenuItems.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.flowLayoutPanelMenuItems.BackColor = System.Drawing.Color.LightSlateGray;
             this.flowLayoutPanelMenuItems.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanelMenuItems.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanelMenuItems.Margin = new System.Windows.Forms.Padding(2);
@@ -121,6 +121,7 @@
             // menuStrip3
             // 
             this.menuStrip3.AutoSize = false;
+            this.menuStrip3.BackColor = System.Drawing.Color.LightSlateGray;
             this.menuStrip3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("menuStrip3.BackgroundImage")));
             this.menuStrip3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.menuStrip3.Font = new System.Drawing.Font("Segoe UI", 12F);
@@ -163,13 +164,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightCyan;
+            this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(361, 679);
             this.Controls.Add(this.pnlMenuItems);
             this.Controls.Add(this.OrderDetails_menuStrip);
             this.Controls.Add(this.menuStrip3);
             this.Controls.Add(this.Tables_lbl);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.OrderDetails_menuStrip;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "OrderForm";

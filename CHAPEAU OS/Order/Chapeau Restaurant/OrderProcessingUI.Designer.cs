@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(OrderProcessingUI));
             this.OrdStatusbtn = new System.Windows.Forms.Button();
             this.btn_RefreshOrders = new System.Windows.Forms.Button();
             this.listViewORDERS = new System.Windows.Forms.ListView();
@@ -111,11 +112,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(642, 459);
             this.Controls.Add(this.listViewORDERS);
             this.Controls.Add(this.btn_RefreshOrders);
             this.Controls.Add(this.OrdStatusbtn);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "OrderProcessingUI";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

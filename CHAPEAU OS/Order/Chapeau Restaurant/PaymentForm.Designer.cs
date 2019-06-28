@@ -56,7 +56,7 @@
             this.OrderIdTxtBox.BackColor = System.Drawing.SystemColors.Info;
             this.OrderIdTxtBox.Cursor = System.Windows.Forms.Cursors.No;
             this.OrderIdTxtBox.Enabled = false;
-            this.OrderIdTxtBox.Location = new System.Drawing.Point(106, 65);
+            this.OrderIdTxtBox.Location = new System.Drawing.Point(74, 94);
             this.OrderIdTxtBox.Name = "OrderIdTxtBox";
             this.OrderIdTxtBox.Size = new System.Drawing.Size(100, 20);
             this.OrderIdTxtBox.TabIndex = 0;
@@ -68,7 +68,7 @@
             this.OrderIdLbl.BackColor = System.Drawing.Color.LightSteelBlue;
             this.OrderIdLbl.Font = new System.Drawing.Font("Constantia", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OrderIdLbl.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.OrderIdLbl.Location = new System.Drawing.Point(34, 64);
+            this.OrderIdLbl.Location = new System.Drawing.Point(2, 94);
             this.OrderIdLbl.Name = "OrderIdLbl";
             this.OrderIdLbl.Size = new System.Drawing.Size(66, 18);
             this.OrderIdLbl.TabIndex = 1;
@@ -162,9 +162,9 @@
             this.PrintBillBtn.BackColor = System.Drawing.Color.LightCoral;
             this.PrintBillBtn.Font = new System.Drawing.Font("Constantia", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PrintBillBtn.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.PrintBillBtn.Location = new System.Drawing.Point(218, 47);
+            this.PrintBillBtn.Location = new System.Drawing.Point(191, 94);
             this.PrintBillBtn.Name = "PrintBillBtn";
-            this.PrintBillBtn.Size = new System.Drawing.Size(73, 56);
+            this.PrintBillBtn.Size = new System.Drawing.Size(232, 20);
             this.PrintBillBtn.TabIndex = 6;
             this.PrintBillBtn.Text = "Print Bill";
             this.PrintBillBtn.UseVisualStyleBackColor = false;
@@ -238,12 +238,13 @@
             this.CommentBox.Size = new System.Drawing.Size(143, 132);
             this.CommentBox.TabIndex = 12;
             this.CommentBox.Text = "Add a comment...";
+            this.CommentBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.CommentBox_MouseClick);
             // 
             // PaymentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(467, 667);
             this.Controls.Add(this.CommentBox);
             this.Controls.Add(this.TotalPriceLbl);
@@ -257,6 +258,7 @@
             this.Controls.Add(this.OrderIdLbl);
             this.Controls.Add(this.OrderIdTxtBox);
             this.Controls.Add(this.menuStrip3);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PaymentForm";
             this.Text = "Payment";
             ((System.ComponentModel.ISupportInitialize)(this.BillGridView)).EndInit();
