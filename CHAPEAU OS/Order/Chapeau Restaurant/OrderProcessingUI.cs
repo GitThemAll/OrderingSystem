@@ -174,5 +174,10 @@ namespace Chapeau_Restaurant
             imgList.ImageSize = new Size(1, height);
             listView.SmallImageList = imgList;
         }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

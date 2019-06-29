@@ -32,6 +32,7 @@
             this.stockToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.OrdersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.StockListView = new System.Windows.Forms.ListView();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -39,7 +40,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.stockToolStripMenuItem1,
-            this.OrdersToolStripMenuItem});
+            this.OrdersToolStripMenuItem,
+            this.toolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(370, 25);
@@ -71,6 +73,15 @@
             this.StockListView.TabIndex = 8;
             this.StockListView.UseCompatibleStateImageBehavior = false;
             // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.BackColor = System.Drawing.SystemColors.Control;
+            this.toolStripMenuItem1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(64, 21);
+            this.toolStripMenuItem1.Text = "Logout";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            // 
             // StockViewUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -96,5 +107,6 @@
         private System.Windows.Forms.ToolStripMenuItem OrdersToolStripMenuItem;
         private System.Windows.Forms.ListView StockListView;
         private System.Windows.Forms.ToolStripMenuItem stockToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
     }
 }
