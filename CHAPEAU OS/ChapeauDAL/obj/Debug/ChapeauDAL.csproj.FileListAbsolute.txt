@@ -130,3 +130,13 @@ C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CopyComplete
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.dll
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll.config
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauDAL.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\bin\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CopyComplete
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauDAL\obj\Debug\ChapeauDAL.pdb

@@ -332,3 +332,31 @@ C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\De
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
 C:\Users\Abdul\Desktop\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe.config
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\Chapeau Restaurant.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauLogic.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauModel.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.pdb
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\bin\Debug\ChapeauDAL.dll.config
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csprojAssemblyReference.cache
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.ChapeauForm.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Choosepayment.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.DeviceManager.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.LoginForm.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.MenuViewLine.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderForm.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.orderItemDisplay.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.OrderProcessingUI.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.PaymentForm.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.Properties.Resources.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
+C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb

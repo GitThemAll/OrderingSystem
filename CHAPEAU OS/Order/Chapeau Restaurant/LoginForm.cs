@@ -38,7 +38,7 @@ namespace Chapeau_Restaurant
                     Hide();
             }
                 else
-                    MessageBox.Show("Email and password do not match");
+                    MessageBox.Show("Username and Password do not match");
         }
             catch (Exception ex)
             {

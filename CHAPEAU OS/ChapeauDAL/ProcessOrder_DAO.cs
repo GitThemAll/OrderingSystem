@@ -107,6 +107,11 @@ namespace ChapeauDAL
                 }
             }
 
+            if (SameCounter == orderItems.Count())
+                return true;
+
+            return false;
+
             //for(int I =0; I < orderItems.Count(); I++)
             //{
             //    if (I ==(orderItems.Count() - 1))
@@ -125,10 +130,6 @@ namespace ChapeauDAL
             //    }
             //}
 
-            if(SameCounter == orderItems.Count() )
-                return true;
-            
-            return false;
         }
 
         List<OrderItem> Get_Order_Item_Status(int Order_Id)
