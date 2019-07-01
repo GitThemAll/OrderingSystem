@@ -201,10 +201,7 @@ namespace Chapeau_Restaurant
         {
             try
             {
-                if (paymentForm == null)
-                {
-                    paymentForm = new PaymentForm(this);
-                }
+                paymentForm = new PaymentForm(this);
                 paymentForm.order = currentOrder;
                 paymentForm.PrintBill();
                 paymentForm.Show();

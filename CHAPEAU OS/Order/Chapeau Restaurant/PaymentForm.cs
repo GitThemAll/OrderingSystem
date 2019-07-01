@@ -65,15 +65,15 @@ namespace Chapeau_Restaurant
 
             }
             
-            foreach (OrderItem item in orderItems)
-            {
-                priceWithoutVat += (double)item.price*item.quantity;
-                TotalVat += item.Vat*item.quantity;
-            }
-            priceWithVat = priceWithoutVat + TotalVat;
-            VatLbl.Text += $"   {TotalVat.ToString()}";
-            PriceNoVatLbl.Text += $"   {priceWithoutVat.ToString()}";
-            TotalPriceLbl.Text +=$"   {priceWithVat.ToString()}";
+            //foreach (OrderItem item in orderItems)
+            //{
+            //    priceWithoutVat += (double)item.price*item.quantity;
+            //    TotalVat += item.Vat*item.quantity;
+            //}
+            //priceWithVat = priceWithoutVat + TotalVat;
+            VatLbl.Text += $"   {ps.TotalVat.ToString()}";
+            PriceNoVatLbl.Text += $"   {ps.priceWithoutVat.ToString()}";
+            TotalPriceLbl.Text +=$"   {ps.TotalPrice.ToString()}";
 
         }
 

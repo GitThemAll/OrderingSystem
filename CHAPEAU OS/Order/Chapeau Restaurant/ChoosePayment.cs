@@ -25,8 +25,10 @@ namespace Chapeau_Restaurant
         }
         private void PerformPayment()
         {
+            
             ps = new PaymentService();
             ps.UpdateOrderStatusAndTip(this.Order );
+            MessageBox.Show("Payment confirmed");
             this.Hide();
             pf.orderForm.Show();
             pf.orderForm.LoadTables();
