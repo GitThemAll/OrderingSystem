@@ -51,7 +51,6 @@ namespace Chapeau_Restaurant
             OrderIdTxtBox.Text = order.id.ToString();
             int count = 0;
             List<OrderItem> orderItems = ps.GetOrderItems(order.id);
-            Double priceWithoutVat = 0, priceWithVat = 0, TotalVat = 0;
            
 
             foreach (OrderItem orderItem in orderItems)
@@ -65,12 +64,6 @@ namespace Chapeau_Restaurant
 
             }
             
-            //foreach (OrderItem item in orderItems)
-            //{
-            //    priceWithoutVat += (double)item.price*item.quantity;
-            //    TotalVat += item.Vat*item.quantity;
-            //}
-            //priceWithVat = priceWithoutVat + TotalVat;
             VatLbl.Text += $"   {ps.TotalVat.ToString()}";
             PriceNoVatLbl.Text += $"   {ps.priceWithoutVat.ToString()}";
             TotalPriceLbl.Text +=$"   {ps.TotalPrice.ToString()}";

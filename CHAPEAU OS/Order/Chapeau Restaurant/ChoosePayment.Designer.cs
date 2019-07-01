@@ -57,7 +57,7 @@
             this.VisaBtn.Size = new System.Drawing.Size(376, 149);
             this.VisaBtn.TabIndex = 1;
             this.VisaBtn.UseVisualStyleBackColor = false;
-            this.VisaBtn.Click += new System.EventHandler(this.button1_Click);
+            this.VisaBtn.Click += new System.EventHandler(this.VisaBtn_Click);
             // 
             // CashBtn
             // 
@@ -74,7 +74,7 @@
             this.CashBtn.Text = "Cash";
             this.CashBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.CashBtn.UseVisualStyleBackColor = false;
-            this.CashBtn.Click += new System.EventHandler(this.button2_Click);
+            this.CashBtn.Click += new System.EventHandler(this.CashBtn_Click);
             // 
             // AXBtn
             // 
@@ -87,7 +87,7 @@
             this.AXBtn.Size = new System.Drawing.Size(376, 140);
             this.AXBtn.TabIndex = 3;
             this.AXBtn.UseVisualStyleBackColor = false;
-            this.AXBtn.Click += new System.EventHandler(this.button3_Click);
+            this.AXBtn.Click += new System.EventHandler(this.AmericanBtn_Click);
             // 
             // PinBtn
             // 
@@ -103,7 +103,7 @@
             this.PinBtn.Text = "Pin";
             this.PinBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.PinBtn.UseVisualStyleBackColor = false;
-            this.PinBtn.Click += new System.EventHandler(this.button4_Click);
+            this.PinBtn.Click += new System.EventHandler(this.PinBtn_Click);
             // 
             // Choosepayment
             // 

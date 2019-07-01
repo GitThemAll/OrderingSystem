@@ -34,25 +34,25 @@ namespace Chapeau_Restaurant
             pf.orderForm.LoadTables();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void VisaBtn_Click(object sender, EventArgs e)
         {
             Order.paymentType = PaymentType.Visa; 
             PerformPayment();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void PinBtn_Click(object sender, EventArgs e)
         {
             Order.paymentType = PaymentType.Pin;
             PerformPayment();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void CashBtn_Click(object sender, EventArgs e)
         {
             Order.paymentType = PaymentType.Cash;
             PerformPayment();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void AmericanBtn_Click(object sender, EventArgs e)
         {
             Order.paymentType = PaymentType.AmericanExpress;
             PerformPayment();
