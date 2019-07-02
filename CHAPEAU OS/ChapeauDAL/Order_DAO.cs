@@ -39,10 +39,10 @@ namespace ChapeauDAL
         public List<OrderItem> GetOrderItems(int orderId)
         {
             List<OrderItem> items = new List<OrderItem>();
-            string query = "SELECT M.id, count(M.id) quantity ,Name,Price,Quantity StockQuantity,Type,Sub_Type,i.OrderId FROM OrderItem I "+
+            string query = "SELECT M.id, count(M.id) quantity ,Name,Price,Quantity StockQuantity,Type,Sub_Type,i.OrderId, i.Item_Status FROM OrderItem I "+
                             "join MenuItem M on M.id = I.ItemId "+
                             $"where i.OrderId = {orderId} "+
-                            "group by M.id,Name,Price,Quantity,Type,Sub_Type,i.OrderId";
+                            "group by M.id,Name,Price,Quantity,Type,Sub_Type,i.OrderId,i.Item_Status";
             SqlParameter[] sqlParameters = new SqlParameter[0];
             DataTable datatable = (ExecuteSelectQuery(query, sqlParameters));
             foreach (DataRow dr in datatable.Rows)
@@ -55,7 +55,8 @@ namespace ChapeauDAL
                     type = (string)(dr["Type"].ToString()),
                     subType = (string)(dr["Sub_Type"].ToString()),
                     stockQuantity = (int)dr["StockQuantity"],
-                    quantity = (int)dr["quantity"]
+                    quantity = (int)dr["quantity"],
+                    Item_status = (Status)Enum.Parse(typeof(Status), (string)dr["Item_Status"], true)
                 };
                 items.Add(item);
 

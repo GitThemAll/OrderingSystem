@@ -69,3 +69,9 @@ C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauModel\obj\Debug\ChapeauModel.pdb

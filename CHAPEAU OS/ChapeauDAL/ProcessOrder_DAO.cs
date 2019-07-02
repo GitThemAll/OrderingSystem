@@ -17,9 +17,9 @@ namespace ChapeauDAL
                            " FROM Orders " +
                            " JOIN OrderItem ON OrderItem.OrderId = Orders.Id " +
                            " JOIN MenuItem ON MenuItem.Id = OrderItem.ItemId " +
-                           " WHERE OrderItem.Item_Status = 'Pending' AND ( MenuItem.Sub_Type <> 'SoftDrinks' AND MenuItem.Sub_Type <> 'HotDrinks' " +
+                           " WHERE Orders.Status = 'Pending' AND OrderItem.Item_Status = 'Pending' AND ( MenuItem.Sub_Type <> 'SoftDrinks' AND MenuItem.Sub_Type <> 'HotDrinks' " +
                            " AND MenuItem.Sub_Type <> 'Beers' AND MenuItem.Sub_Type <> 'Wines' ) " +
-                           " ORDER BY Orders.Time DESC ";
+                           " ORDER BY Orders.Time ";
 
             SqlParameter[] sqlParameters = new SqlParameter[0];
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));

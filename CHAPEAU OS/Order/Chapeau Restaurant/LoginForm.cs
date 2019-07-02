@@ -14,7 +14,7 @@ namespace Chapeau_Restaurant
 {
     public partial class LoginForm : Form
     {
-        ChapeauForm chapeauMonitor;
+        public ChapeauForm chapeauMonitor;
         User_Services user_Services = new User_Services();
 
         public LoginForm(ChapeauForm monitor)

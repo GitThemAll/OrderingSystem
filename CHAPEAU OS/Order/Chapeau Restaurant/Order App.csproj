@@ -113,9 +113,6 @@
     <Compile Include="StockViewUI.Designer.cs">
       <DependentUpon>StockViewUI.cs</DependentUpon>
     </Compile>
-    <Compile Include="TableButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="TableView.cs">
       <SubType>UserControl</SubType>
     </Compile>

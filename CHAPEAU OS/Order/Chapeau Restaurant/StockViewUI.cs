@@ -13,7 +13,7 @@ using ChapeauModel;
 
 namespace Chapeau_Restaurant
 {
-    public partial class StockViewUI : Form
+    public partial class StockViewUI : ChapeauForm
     {
         Stock_Service Stocks_controller;
         OrderProcessingUI orderProcessing;

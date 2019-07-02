@@ -13,7 +13,6 @@ namespace Chapeau_Restaurant
 {
     public partial class TableView : UserControl
     {
-        DateTime startTime;
         OrderForm orderForm;
         public Order order;
         public TableView(int tableNumber, Status state, string timer, OrderForm orderForm)
@@ -22,17 +21,16 @@ namespace Chapeau_Restaurant
             TableNumber_lbl.Text = tableNumber.ToString();
             TableState_btn.Text = state.ToString();
             Timer_lbl.Text = timer;
-            startTime = DateTime.Now;
             this.orderForm = orderForm;
             order = new Order();
             order.table = tableNumber;
         }
         private void timer7_Tick(object sender, EventArgs e)
         {
-            TimeSpan span = DateTime.Now - startTime;
-            if (DateTime.Now.AddMinutes(15) < startTime)
+            TimeSpan span = DateTime.Now - order.date;
+            if (span > TimeSpan.FromMinutes(15))
                 Timer_lbl.ForeColor = Color.Red;
-            if (DateTime.Now.AddHours(1) > startTime)
+            if (span < TimeSpan.FromHours(1))
             {
                 Timer_lbl.Text = span.Minutes.ToString() + ":" + span.Seconds.ToString();
             }
@@ -59,6 +57,7 @@ namespace Chapeau_Restaurant
                     break;
                 case Status.Pending:
                     TableState_btn.BackColor = Color.Yellow;
+                    checkOrderItems();
                     break;
                 case Status.Processing:
                     TableState_btn.BackColor = Color.Blue;
@@ -75,6 +74,20 @@ namespace Chapeau_Restaurant
             CheckTimer();
         }
 
+        private void checkOrderItems()
+        {
+            int readyCount = 0;
+            foreach (OrderItem item in order.OrderItems)
+            {
+                if (item.Item_status == Status.Ready)
+                    readyCount++;
+            }
+            if (readyCount > 0)
+            {
+                TableState_btn.Text += $"\r\n {readyCount} orders ready";
+            }
+        }
+
         public void CheckTimer()
         {
             if (order.state == Status.Pending || order.state == Status.Processing)
@@ -87,6 +100,6 @@ namespace Chapeau_Restaurant
                 OrderTimer.Stop();
                 Timer_lbl.Hide();
             }
-            }
         }
+    }
 }

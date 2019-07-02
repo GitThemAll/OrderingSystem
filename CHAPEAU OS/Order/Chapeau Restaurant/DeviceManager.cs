@@ -24,22 +24,31 @@ namespace Chapeau_Restaurant
         {
             connectedScreens.Add(screen);
             LoginForm form = new LoginForm(screen);
+            form.chapeauMonitor.login = form;
             form.Show();
         }
 
         private void WaiterForm_btn_Click(object sender, EventArgs e)
         {
-            diplayScreens(new OrderForm());
+            diplayScreens(new OrderForm(this));
         }
 
         private void ChefForm_btn_Click(object sender, EventArgs e)
         {
-            diplayScreens(new OrderProcessingUI("Chef"));
+            diplayScreens(new OrderProcessingUI("Chef",this));
         }
 
         private void BarmanForm_btn_Click(object sender, EventArgs e)
         {
-            diplayScreens(new OrderProcessingUI("Barman"));
+            diplayScreens(new OrderProcessingUI("Barman",this));
+        }
+
+        public void NotifyScreens()
+        {
+            foreach(ChapeauForm screen in connectedScreens)
+            {
+                screen.UpdateScreen();
+            }
         }
     }
 }

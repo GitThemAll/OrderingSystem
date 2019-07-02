@@ -15,14 +15,16 @@ namespace Chapeau_Restaurant
         Order_Service order_service = new Order_Service();
         PaymentForm paymentForm;
         List<TableView> tableViews;
-        
-        public OrderForm()
+        DeviceManager managerForm;
+
+        public OrderForm(DeviceManager managerForm)
         {
             CreateTables();
             InitializeComponent();
+            this.managerForm = managerForm;
         }
 
-        
+
         private void pnlLunch_Paint(object sender, PaintEventArgs e)
         {
 
@@ -56,7 +58,7 @@ namespace Chapeau_Restaurant
             label.Font = titleFont;
             flowLayoutPanelMenuItems.Controls.Add(label);
 
-            
+
             foreach (ChapeauMenuItem item in menuItems)
             {
                 int quantity = currentOrder.GetQuantity(item.itemID);
@@ -109,6 +111,7 @@ namespace Chapeau_Restaurant
 
         public void ShowOrderDetails(Order order)
         {
+            isOrdersList = false;
             currentOrder = order;
             //
             order_service.currentOrder = order;
@@ -167,7 +170,7 @@ namespace Chapeau_Restaurant
                 flowLayoutPanelMenuItems.Controls.Add(occupy_btn);
                 occupy_btn.Click += occupy_btn_Click;
             }
-            else if(currentOrder.state == Status.Occupied)
+            else if (currentOrder.state == Status.Occupied)
             {
                 Button free_btn = new Button();
                 free_btn.Text = "free table";
@@ -175,7 +178,7 @@ namespace Chapeau_Restaurant
                 free_btn.Click += free_btn_Click;
             }
         }
-        
+
 
 
         private void OrderIsPending(Order order)
@@ -194,6 +197,7 @@ namespace Chapeau_Restaurant
             label.Text = "Order Sent!";
             label.Font = titleFont;
             flowLayoutPanelMenuItems.Controls.Add(label);
+            managerForm.NotifyScreens();
         }
 
         // sends order to payment form
@@ -207,7 +211,7 @@ namespace Chapeau_Restaurant
                 paymentForm.Show();
                 Hide();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
@@ -240,7 +244,7 @@ namespace Chapeau_Restaurant
                 label.Text = "Table " + currentOrder.table;
                 label.Font = titleFont;
                 flowLayoutPanelMenuItems.Controls.Add(label);
-                
+
                 Label emptylabel = new Label();
                 emptylabel.Text = "order is " + currentOrder.state.ToString();
                 emptylabel.Width = 300;
@@ -268,13 +272,13 @@ namespace Chapeau_Restaurant
         //Order Overview leveque Jesse
         private void CreateTables()
         {
-            
+
             int count = 0;
             tableViews = new List<TableView>();
             for (int i = 0; i < 10; i++)
             {
                 count++;
-                TableView tableview = new TableView(i+1, Status.Empty, "", this);
+                TableView tableview = new TableView(i + 1, Status.Empty, "", this);
                 tableViews.Add(tableview);
             }
         }
@@ -285,7 +289,7 @@ namespace Chapeau_Restaurant
 
         private void AddOrdersToTables()
         {
-            foreach(TableView table in tableViews)
+            foreach (TableView table in tableViews)
             {
                 table.order = GetOrder(table.order.table);
                 table.order.OrderItems = getOrderItems(table.order.id);
@@ -305,6 +309,7 @@ namespace Chapeau_Restaurant
 
         public void LoadTables()
         {
+            isOrdersList = true;
             OrderDetails_menuStrip.Hide();
             flowLayoutPanelMenuItems.Controls.Clear();
             flowLayoutPanelMenuItems.WrapContents = true;
@@ -320,9 +325,19 @@ namespace Chapeau_Restaurant
         {
             return order_service.GetOrderItems(orderID);
         }
+
         private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Logout();
+        }
+
+        bool isOrdersList;
+        public override void UpdateScreen()
+        {
+            if (isOrdersList)
+            {
+                LoadTables();
+            }
         }
     }
 }

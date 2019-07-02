@@ -14,12 +14,24 @@ namespace Chapeau_Restaurant
     public partial class ChapeauForm : Form
     {
         public User currentUser;
+        public LoginForm login;
 
         public ChapeauForm()
         {
             InitializeComponent();
             currentUser = new User();
             currentUser.jobType = "Waiter";
+        }
+
+        public virtual void Logout()
+        {
+            login.Show();
+            Hide();
+        }
+
+        public virtual void UpdateScreen()
+        {
+
         }
     }
 }

@@ -17,15 +17,16 @@ namespace Chapeau_Restaurant
         ProcessOrder_Service ProcessOrder;
         List<OrderItem> All_Order_Items;
         StockViewUI stock;
-        public OrderProcessingUI(string jobType)
+        DeviceManager managerForm;
+
+        public OrderProcessingUI(string jobType, DeviceManager managerForm)
         {
            // stock.Hide();
             InitializeComponent();
             ProcessOrder = new ProcessOrder_Service();
-            
+            this.managerForm = managerForm;
             currentUser = new User();
             currentUser.jobType = jobType;
-
         }
 
         private bool IsChef(string jobtype)
@@ -49,6 +50,7 @@ namespace Chapeau_Restaurant
 
         void LoadOrdersList()
         {
+            isOrdersList = true;
             btn_RefreshOrders.Show();
             OrdStatusbtn.Show();
 
@@ -115,11 +117,12 @@ namespace Chapeau_Restaurant
             }
 
             listViewORDERS.SelectedItems.Clear();
-            LoadOrdersList();
+            managerForm.NotifyScreens();
         }
 
         private void stockToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            isOrdersList = false;
             stock = new StockViewUI(this);
             stock.Show();
             Hide();
@@ -127,6 +130,7 @@ namespace Chapeau_Restaurant
 
         private void ordersHistoryToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            isOrdersList = false;
             LoadOrdersHistoryList();
         }
 
@@ -177,7 +181,17 @@ namespace Chapeau_Restaurant
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Logout();
+        }
+
+
+        bool isOrdersList;
+        public override void UpdateScreen()
+        {
+            if (isOrdersList)
+            {
+                LoadOrdersList();
+            }
         }
     }
 }

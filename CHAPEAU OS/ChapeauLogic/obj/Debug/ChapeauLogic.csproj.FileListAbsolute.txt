@@ -168,3 +168,15 @@ C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.pdb
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+C:\Users\Fate\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
