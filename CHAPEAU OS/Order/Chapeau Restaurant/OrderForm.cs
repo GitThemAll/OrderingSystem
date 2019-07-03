@@ -14,7 +14,7 @@ namespace Chapeau_Restaurant
         Font titleFont = new Font("Rockwell", 15, FontStyle.Bold);
         Order_Service order_service = new Order_Service();
         PaymentForm paymentForm;
-        List<TableView> tableViews;
+        List<Table> tables;
         DeviceManager managerForm;
 
         public OrderForm(DeviceManager managerForm)
@@ -179,14 +179,6 @@ namespace Chapeau_Restaurant
             }
         }
 
-
-
-        private void OrderIsPending(Order order)
-        {
-            if ((int)order.state < 3 && order.OrderItems.Count > 0)
-                order.state = Status.Pending;
-        }
-
         private void BtnSendOrder_Click(object sender, EventArgs e)
         {
             order_service.SendOrder(currentUser.ID);
@@ -220,7 +212,7 @@ namespace Chapeau_Restaurant
         {
             try
             {
-                currentOrder.state = Status.Occupied;
+                tables[currentOrder.table+1].status = Status.Occupied;
             }
             catch (Exception ex)
             {
@@ -274,12 +266,12 @@ namespace Chapeau_Restaurant
         {
 
             int count = 0;
-            tableViews = new List<TableView>();
+            tables = new List<Table>();
             for (int i = 0; i < 10; i++)
             {
                 count++;
-                TableView tableview = new TableView(i + 1, Status.Empty, "", this);
-                tableViews.Add(tableview);
+                Table table = new Table(i + 1, Status.Empty);
+                tables.Add(table);
             }
         }
         public Order GetOrder(int tableNumber)
@@ -289,11 +281,10 @@ namespace Chapeau_Restaurant
 
         private void AddOrdersToTables()
         {
-            foreach (TableView table in tableViews)
+            foreach (Table table in tables)
             {
                 table.order = GetOrder(table.order.table);
                 table.order.OrderItems = getOrderItems(table.order.id);
-                table.changestate();
             }
         }
 
@@ -315,15 +306,23 @@ namespace Chapeau_Restaurant
             flowLayoutPanelMenuItems.WrapContents = true;
             AddOrdersToTables();
 
-            foreach (TableView table in tableViews)
+            foreach (Table table in tables)
             {
-                flowLayoutPanelMenuItems.Controls.Add(table);
+                TableView tableView = new TableView(table, this);
+                tableView.table.status = tableView.CheckState(table.order.state);
+                tableView.changestate();
+                flowLayoutPanelMenuItems.Controls.Add(tableView);
             }
         }
 
         public List<OrderItem> getOrderItems(int orderID)
         {
             return order_service.GetOrderItems(orderID);
+        }
+
+        public int GetReadyCount(int orderId, int orderItemId)
+        {
+            return order_service.getReadyCount(orderId, orderItemId);
         }
 
         private void logoutToolStripMenuItem_Click(object sender, EventArgs e)

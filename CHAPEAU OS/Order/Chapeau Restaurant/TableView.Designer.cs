@@ -65,9 +65,8 @@
             this.Timer_lbl.AutoSize = true;
             this.Timer_lbl.Location = new System.Drawing.Point(103, 8);
             this.Timer_lbl.Name = "Timer_lbl";
-            this.Timer_lbl.Size = new System.Drawing.Size(29, 13);
+            this.Timer_lbl.Size = new System.Drawing.Size(0, 13);
             this.Timer_lbl.TabIndex = 2;
-            this.Timer_lbl.Text = "timer";
             // 
             // OrderTimer
             // 

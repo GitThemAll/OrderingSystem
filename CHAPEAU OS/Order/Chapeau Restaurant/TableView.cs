@@ -14,20 +14,18 @@ namespace Chapeau_Restaurant
     public partial class TableView : UserControl
     {
         OrderForm orderForm;
-        public Order order;
-        public TableView(int tableNumber, Status state, string timer, OrderForm orderForm)
+        public Table table;
+        public TableView(Table table, OrderForm orderForm)
         {
+            this.table = table;
             InitializeComponent();
-            TableNumber_lbl.Text = tableNumber.ToString();
-            TableState_btn.Text = state.ToString();
-            Timer_lbl.Text = timer;
+            TableNumber_lbl.Text = table.tableNumber.ToString();
+            TableState_btn.Text = table.status.ToString();
             this.orderForm = orderForm;
-            order = new Order();
-            order.table = tableNumber;
         }
         private void timer7_Tick(object sender, EventArgs e)
         {
-            TimeSpan span = DateTime.Now - order.date;
+            TimeSpan span = DateTime.Now - table.order.date;
             if (span > TimeSpan.FromMinutes(15))
                 Timer_lbl.ForeColor = Color.Red;
             if (span < TimeSpan.FromHours(1))
@@ -40,13 +38,38 @@ namespace Chapeau_Restaurant
 
         private void TableState_btn_Click(object sender, EventArgs e)
         {
-            orderForm.ShowOrderDetails(order);
+            orderForm.ShowOrderDetails(table.order);
         }
 
+        public Status CheckState(Status status)
+        {
+            if (status == Status.Pending)
+            {
+                int readyCount = 0;
+                int totalItems = 0;
+                foreach (OrderItem item in table.order.OrderItems)
+                {
+                    readyCount += orderForm.GetReadyCount(table.order.id, item.itemID);
+                    totalItems += item.quantity;
+                }
+                if (readyCount == totalItems)
+                {
+                    return Status.Ready;
+                }
+                else if (readyCount > 0)
+                {
+                    return Status.Processing;
+                }
+                return Status.Pending;
+            }
+            return table.status;
+        }
         public void changestate()
         {
-            TableState_btn.Text = order.state.ToString();
-            switch (order.state)
+            table.status = CheckState(table.order.state);
+            TableState_btn.Text = table.status.ToString();
+
+            switch (table.status)
             {
                 case Status.Occupied:
                     TableState_btn.BackColor = Color.Orange;
@@ -77,7 +100,7 @@ namespace Chapeau_Restaurant
         private void checkOrderItems()
         {
             int readyCount = 0;
-            foreach (OrderItem item in order.OrderItems)
+            foreach (OrderItem item in table.order.OrderItems)
             {
                 if (item.Item_status == Status.Ready)
                     readyCount++;
@@ -94,7 +117,7 @@ namespace Chapeau_Restaurant
 
         public void CheckTimer()
         {
-            if (order.state == Status.Pending || order.state == Status.Processing)
+            if (table.order.state == Status.Pending || table.order.state == Status.Processing)
             {
                 OrderTimer.Start();
                 Timer_lbl.Show();

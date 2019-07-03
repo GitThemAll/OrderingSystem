@@ -64,6 +64,20 @@ namespace ChapeauDAL
             return items;
         }
 
+        public int getReadyCount(int orderId,int orderItemId)
+        {
+            List<OrderItem> items = new List<OrderItem>();
+            string query = "SELECT count(I.id) readyCount FROM OrderItem I " +
+                            "join Orders O on O.id = I.OrderId " +
+                            $"where i.OrderId = {orderId} AND i.id = {orderItemId} AND i.Item_Status = 'Ready' " +
+                            "group by i.id";
+            SqlParameter[] sqlParameters = new SqlParameter[0];
+            DataTable datatable = (ExecuteSelectQuery(query, sqlParameters));
+            if (datatable.Rows.Count > 0)
+                return (int)datatable.Rows[0]["readyCount"];
+            return 0;
+        }
+
         //new
         public int GetItemQuantity(int itemID,int orderID)
         {

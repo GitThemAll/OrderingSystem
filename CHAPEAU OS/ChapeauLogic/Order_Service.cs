@@ -85,7 +85,10 @@ namespace ChapeauLogic
             return quantity;
         }
 
-        
+        public int getReadyCount(int orderId, int orderItemId)
+        {
+            return order_db.getReadyCount(orderId, orderItemId);
+        }
 
         public List<OrderItem> GetOrderLines()
         {
