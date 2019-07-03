@@ -62,6 +62,10 @@ namespace Chapeau_Restaurant
                 }
                 return Status.Pending;
             }
+            else if (status == Status.Ready)
+            {
+                return Status.Ready;
+            }
             return table.status;
         }
         public void changestate()
