@@ -82,9 +82,13 @@ namespace Chapeau_Restaurant
                 if (item.Item_status == Status.Ready)
                     readyCount++;
             }
-            if (readyCount > 0)
+            if (readyCount > 1)
             {
                 TableState_btn.Text += $"\r\n {readyCount} orders ready";
+            }
+            else if (readyCount == 1)
+            {
+                TableState_btn.Text += $"\r\n {readyCount} order ready";
             }
         }
 
