@@ -356,7 +356,6 @@ C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Res
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.StockViewUI.resources
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau_Restaurant.TableView.resources
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.GenerateResource.cache
-C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CoreCompileInputs.cache
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Order App.csproj.CopyComplete
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.exe
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\Order\Chapeau Restaurant\obj\Debug\Chapeau Restaurant.pdb

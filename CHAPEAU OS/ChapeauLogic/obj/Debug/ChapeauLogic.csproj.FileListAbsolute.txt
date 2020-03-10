@@ -164,7 +164,6 @@ C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauDAL.dll.config
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\bin\Debug\ChapeauModel.pdb
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
-C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.dll
 C:\Users\avtarsingh\Documents\GitHub\OrderingSystem\CHAPEAU OS\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
